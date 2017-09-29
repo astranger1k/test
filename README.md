@@ -1,6 +1,5 @@
 # EB BOT TEST 1
-
-# Under Development
+[![Discord](https://discordapp.com/api/guilds/347790175994380288/embed.png)](https://discord.gg/eGnW2J4)
 
 Public Source Code for the Discord Bot EB Bot, a Discord bot coded in
 JavaScript with [discord.js](https://github.com/hydrabolt/discord.js) using the
